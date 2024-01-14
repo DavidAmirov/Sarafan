@@ -1,10 +1,11 @@
 ## Начало работы
-Клонируйте репозиторий git clone https://github.com/DavidAmirov/Sarafan.git
-Создайте виртуальное окружение 
-Установите зависимости pip install -r requirements.txt
-Выполните миграции manage.py migrate
-Создайте администратора manage.py createsuperuser
-Создайте через административную панель('.../admin/') Категории, Подкатегории, Продукты.
+#Клонируйте репозиторий 
+git clone https://github.com/DavidAmirov/Sarafan.git
+#Создайте виртуальное окружение 
+#Установите зависимости pip install -r requirements.txt
+#Выполните миграции manage.py migrate
+#Создайте администратора manage.py createsuperuser
+#Создайте через административную панель('.../admin/') Категории, Подкатегории, Продукты.
 ## API
 ```
 '.../categories/ - вывод всех категорий и подкатегориями с пагинацией.
