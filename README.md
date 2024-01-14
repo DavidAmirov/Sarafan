@@ -1,5 +1,5 @@
 ## Начало работы
-#№Клонируйте репозиторий 
+##Клонируйте репозиторий 
 git clone https://github.com/DavidAmirov/Sarafan.git
 ##Создайте виртуальное окружение 
 ##Установите зависимости pip install -r requirements.txt
